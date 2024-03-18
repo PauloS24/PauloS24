@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Paulo 👋
 
 <!--
 **PauloS24/PauloS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
